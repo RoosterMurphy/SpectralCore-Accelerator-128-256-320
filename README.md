@@ -19,7 +19,7 @@ This is the code that achieved the impossible: a full 128³ forced isotropic tur
 ## Setup & Run
 1. Install Termux on Android.
 2. Install Python, NumPy, PyTorch (via pip or pkg).
-3. Clone this repo: `git clone https://github.com/YOUR_USERNAME/Turbulence128-on-Phone.git`
+3. Clone this repo: `git clone https://github.com/JesseHouse/Turbulence128-on-Phone.git`
 4. Open the .ipynb in Jupyter (or run via CLI).
 5. Hit play—watch 128³ turbulence unfold live on your phone.
 
