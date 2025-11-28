@@ -30,7 +30,7 @@ Real-time 3D pseudospectral turbulence at **N=128³ (2M+ particles)** in **94 li
 
 Star/fork if you simulate. Contributions: Faster integrators? PRs welcome.
 
-256 and 320 in the works. If you would like to contribute: 
+256 and 320 in the works. If you would like to contribute Or buy me a coffee:
 
 [![Buy Me a Coffee](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/rhouse84)
 
