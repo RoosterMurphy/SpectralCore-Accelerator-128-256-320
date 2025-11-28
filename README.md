@@ -1,5 +1,7 @@
 # Turbulence128-on-Phone 
 
+[![PyTorch](https://img.shields.io/badge/PyTorch-v2.0-orange)](https://pytorch.org/) [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://python.org/)
+
 Real-time 3D pseudospectral turbulence at **N=128³ (2M+ particles)** in **94 lines of pure Python**. Runs at **1.1 FPS** on a phone—because why not turn your Snapdragon into a supercomputer?
 
 ## What It Does
