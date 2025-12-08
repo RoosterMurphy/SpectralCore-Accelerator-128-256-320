@@ -55,7 +55,6 @@ Even used it to turn Doom fire to real fire on my phone in 3 cells on colab CPU 
 <img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/ddf26eeb-fa7d-405b-b9d5-796e4877f847" />
 <img width="430" height="328" alt="image" src="https://github.com/user-attachments/assets/f1a4c693-7d36-42e6-a0fe-f7972fc663a6" />
 
-
 ## Tech Stack
 - 128³ → Pure Python + NumPy FFT → ~2 GB → 1.1–1.17 FPS on any phone  
 - 256³ → PyTorch + torch.fft (CPU) → ~9 GB → real-time on 2024–2025 flagships  
