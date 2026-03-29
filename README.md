@@ -1,5 +1,3 @@
-# SpectralCore 
-
 [![PyTorch](https://img.shields.io/badge/PyTorch-v2.0-orange)](https://pytorch.org/) [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://python.org/)
 
 # SpectralCore
